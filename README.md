@@ -180,7 +180,6 @@ void client() {
 
 
 ## OUTPUT
-
 ![Alt text](os_exp3_2.png)
 
 # RESULT:
